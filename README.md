@@ -1,1 +1,1 @@
-# distribution_testing
+# Testing distributions using stock data
